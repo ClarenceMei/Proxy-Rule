@@ -1,0 +1,6 @@
+#!name=DNSPod Pub DoH
+#!desc=Enable DNS over HTTPS(DoH)
+
+[General]
+dns-server = 119.29.29.29
+doh-server = https://doh.pub/dns-query
